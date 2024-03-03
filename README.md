@@ -1,3 +1,3 @@
 # shreya-demo
-This sis my first Git Repository 
+This is my first Git Repository 
 Author - Shreya Reddy
